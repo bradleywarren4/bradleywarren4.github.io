@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Bradley Warren
-description: "Hi I'm Bradley, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi I'm Bradley, I'm a Finance professional passionate about using data to solve complex business problems. My core expertise lies in financial planning, analysis, and strategic support, where I help organisations make informed capital allocation and growth decisions. Outside of traditional finance work, I enjoy experimenting with machine learning and statistical techniques to tackle questions like customer lifetime value, revenue optimisation, and market trend analysis. This combination of financial rigor and analytical curiosity allows me to approach business challenges from multiple angles and deliver more comprehensive insights."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -51,4 +51,5 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
